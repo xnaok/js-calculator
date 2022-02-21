@@ -4,3 +4,4 @@
 
 # 参考資料
 - http://cya.sakura.ne.jp/java/calc.htm
+- https://www.programiz.com/javascript/examples/simple-calculator
